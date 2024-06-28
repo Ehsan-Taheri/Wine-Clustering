@@ -21,7 +21,8 @@ Visualize the clusters both in the PCA space and in the original feature space.
 ### Evaluation:
 Evaluate the clustering using the silhouette score and provide a detailed evaluation including cluster centers and the number of data points in each cluster.
 
-[output.png](https://github.com/Ehsan-Taheri/Wine-Clustering/blob/e256cd9b9a5f2f8c1a4d9ab4f1af47ab2b8af877/output.png)
+![output](https://github.com/Ehsan-Taheri/Wine-Clustering/assets/24533827/d85f9425-7856-45b1-bdf6-dbd6f24832b8)
+
 
 
 This enhanced notebook now includes comprehensive EDA with a focus on 'alcohol' and 'density', ensuring both informative analysis and clear visualizations.
