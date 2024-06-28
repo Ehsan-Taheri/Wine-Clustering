@@ -21,7 +21,7 @@ Visualize the clusters both in the PCA space and in the original feature space.
 ### Evaluation:
 Evaluate the clustering using the silhouette score and provide a detailed evaluation including cluster centers and the number of data points in each cluster.
 
-
+output.png
 
 
 This enhanced notebook now includes comprehensive EDA with a focus on 'alcohol' and 'density', ensuring both informative analysis and clear visualizations.
